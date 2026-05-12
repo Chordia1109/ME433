@@ -1,0 +1,9 @@
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:70:5:__io_putchar	2
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:82:5:main	12
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:223:6:SystemClock_Config	3
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:258:13:MX_FDCAN1_Init	2
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:290:13:MX_GPIO_Init	1
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:297:13:MX_USART2_Init	1
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:320:6:BSP_PB_Callback	3
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:354:17:BufferCmp8b	3
+/Users/chordia/Desktop/HW12/FDCAN_Com_Polling/Src/main.c:376:6:Error_Handler	1
